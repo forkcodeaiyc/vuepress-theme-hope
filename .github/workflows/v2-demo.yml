@@ -61,3 +61,4 @@ jobs:
           branch: gh-pages
           folder: demo/theme/dist
           token: ${{ secrets.ACCESS_TOKEN }}
+          single-commit: true
